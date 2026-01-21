@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088424424163",
+    "project_id": "sprint2-85511",
+    "storage_bucket": "sprint2-85511.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088424424163:android:83f7ebbff1c9c2f1fe4bd6",
+        "android_client_info": {
+          "package_name": "com.example.sprint2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOyktdFAKTejNclTEGMBaB7iWusf7oDrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
